@@ -59,7 +59,7 @@ Clone o repositório: `git clone link`.
 O Frontend está rodando na porta `3000` e o Backend na porta `3001`. Seguem as rotas que podem ser acessadas:
 
   `/login`: </br>
-    - POST: realiza login para usuário existente; </br>
+    - POST: realiza login para usuário existente; (teste com: `admin@admin.com`, senha: `secret_admin`) </br>
     - GET: `/login/role` identifica qual o grupo de usuário da pessoa logada (usuário ou admin);
 
   `/teams`: </br>
@@ -83,4 +83,4 @@ Utilize o seu client preferido para testar as rotas acima ou um browser web para
 
   **Back-end:** Typescript, Node.js, Express, Sequelize (ORM) e JWT (jsonwebtoken) para Autenticação </br>
   **Banco de Dados:** SQL MySQL </br>
-  **Paradgima:** Programação Orientada a Objetos (POO)
+  **Paradigma:** Programação Orientada a Objetos (POO)
