@@ -85,4 +85,5 @@ Utilize o seu client preferido para testar as rotas acima ou um browser web para
   **Banco de Dados:** SQL MySQL </br>
   **Paradigma:** Programação Orientada a Objetos (POO)
   
-## 🔗 Deploy: https://tfc-frontend-production.up.railway.app/
+## 🔗 Deploy: 
+https://tfc-frontend-production.up.railway.app/
