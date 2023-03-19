@@ -84,3 +84,5 @@ Utilize o seu client preferido para testar as rotas acima ou um browser web para
   **Back-end:** Typescript, Node.js, Express, Sequelize (ORM) e JWT (jsonwebtoken) para Autenticação </br>
   **Banco de Dados:** SQL MySQL </br>
   **Paradigma:** Programação Orientada a Objetos (POO)
+  
+## 🔗 Deploy: https://tfc-frontend-production.up.railway.app/
