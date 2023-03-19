@@ -46,7 +46,7 @@ Clone o repositório: `git clone link`.
 
 ## ✨ Inicializando:
 
-  Clone o repositório: `git clone link`
+  Clone o repositório: `git clone git@github.com:fa-biano/tfc-trybe-futebol-clube.git`
 
   Instale as dependências `npm install`
   
